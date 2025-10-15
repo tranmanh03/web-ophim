@@ -1,5 +1,5 @@
 .image-background {
-  background-image: url("/images/home-background.png");
+  background-image: url('/images/home-background.png');
 
   .home-board {
     display: flex;
@@ -16,11 +16,8 @@
     -webkit-backdrop-filter: blur(15px);
 
     .btn-play {
-      background: linear-gradient(
-        39deg,
-        rgba(254, 207, 89, 1),
-        rgba(255, 241, 204, 1)
-      );
+      background: linear-gradient(39deg, rgba(254, 207, 89, 1), rgba(255, 241, 204, 1));
     }
   }
 }
+// update home

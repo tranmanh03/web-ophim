@@ -5,10 +5,10 @@ import "@/app/(home)/components/home.scss";
 
 export default function Home() {
   return (
-    <div>
+    // <div>
       <HomeSection />
       <HomeAbout />
       <HomeFooter />
-    </div>
+    // </div>
   );
 }
